@@ -1,0 +1,18 @@
+.venv/
+.idea/
+.DS_Store
+.remember/
+__pycache__/
+.ipynb_checkpoints/
+~$*.doc*
+*.pyc
+*Assignment*.docx
+script.md
+CLAUDE.md
+*.zip
+*.mp4
+*.mov
+*.pdf
+!Week 04 - NLP/nlp_data/*.pdf
+Course_textbook/
+*_recorded.pptx

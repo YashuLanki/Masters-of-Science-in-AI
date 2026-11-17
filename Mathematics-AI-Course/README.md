@@ -1,0 +1,15 @@
+# AIT525 Assignments
+
+Coursework for AIT 525 (Grand Canyon University), by Yashu Lanki.
+Course Title - Mathematics for AI
+
+## Projects
+
+- [`Week 01 - Regression/`](./Week%2001%20-%20Regression) — *Predicting Fish Weight Using Linear Regression*. Predicts fish weight from physical measurements (length, height, width) using both a closed-form linear regression model and a gradient-descent (SGD) optimized model, with a full comparison of performance metrics.
+- [`Week 02 - Matrices/`](./Week%2002%20-%20Matrices) — *Matrix and Vector Operations*. Applies basic linear algebra (matrix addition, subtraction, multiplication, and dot products) to the UCI Adult dataset, using NumPy to demonstrate these operations and their significance in AI/ML data analysis.
+- [`Week 03 - SVD/`](./Week%2003%20-%20SVD) — *SVD and PCA for Dimensionality Reduction*. Applies Singular Value Decomposition and Principal Component Analysis to the International Graduates Employment dataset, comparing both techniques' explained variance, key features, and trade-offs for reducing dimensionality.
+- [`Week 04 - NLP/`](./Week%2004%20-%20NLP) — *NLP Document Similarity*. Preprocesses and vectorizes two documents using Bag of Words and TF-IDF, then compares them with cosine similarity to evaluate document similarity.
+- [`Week 05 - Graph Theory/`](./Week%2005%20-%20Graph%20Theory) — *Graph Theory and Social Influence Prediction*. Models the r/MachineLearning reply network as a graph with NetworkX, scores each user's social influence using random walks and centrality, and builds an algorithm that predicts user actions from those scores.
+- [`Week 06 - Fuzzy Logic/`](./Week%2006%20-%20Fuzzy%20Logic) — *Fuzzy Logic Fuel Economy Prediction*. Designs and implements a Mamdani fuzzy logic system in Python with scikit-fuzzy that predicts a Toyota Tundra's MPG from cargo load and road incline, and compares it with crisp (binary) logic.
+- [`Week 07 - PDE/`](./Week%2007%20-%20PDE) — *Modeling Pollution Spread in a River*. Solves the one-dimensional diffusion equation with the explicit finite difference method and with a Fourier transform, applied to a pollutant spill spreading along a river, and compares the two approaches.
+- [`Week 08 - Final/`](./Week%2008%20-%20Final) — *Bayes' Theorem: How AI Learns to Spot Spam*. Final video presentation on Bayes' theorem in AI: Christian values in responsible AI, a worked Bayes example and a Naive Bayes spam classifier on the SMS Spam Collection, and the spam filter's free market impact.
