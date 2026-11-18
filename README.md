@@ -28,7 +28,8 @@ Statistical reasoning and inference for AI, applied to UCI datasets.
 | 01 | Probability distributions and the central limit theorem (Bike Sharing data) |
 | 02 | Statistical inference and confidence intervals (Bank Marketing data) |
 | 03 | Bayesian inference for online shopper conversion (Beta–Bernoulli, PyMC) |
-| 04–08 | In progress |
+| 04 | Hypothesis testing of AI model accuracy (t-tests, ANOVA, Type I/II errors) |
+| 05–08 | In progress |
 
 Python dependencies are listed in [`Statistics-Data-Analysis-AI-Course/requirements.txt`](./Statistics-Data-Analysis-AI-Course/requirements.txt).
 
